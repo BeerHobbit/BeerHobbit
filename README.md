@@ -12,4 +12,7 @@
   <a href="https://t.me/LolKoval">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+
+  <a href="mailto:kovalenko537@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
